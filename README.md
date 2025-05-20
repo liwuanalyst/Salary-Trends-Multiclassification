@@ -1,6 +1,6 @@
 # Salary Trends (Multiclass Classification)
 
-A Python-based machine learning project to classify salary categories using structured data. Focuses on data exploration, class balancing, and model optimization to support accurate multiclass prediction.
+A Python-based machine learning project to classify Data Science salary categories using structured data. Focuses on data exploration, class balancing, and model optimization to support accurate multiclass prediction.
 
 ---
 
